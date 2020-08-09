@@ -1,8 +1,8 @@
-### Hi, I'm Michal and this is my GitHub page!
+## Hi, I'm Michal and this is my GitHub page!
 
-## I am a 3rd year computer science student @Royal Holloway, University of London 👨‍🎓
-## I aspire to work within the software engineering industry 💻
-## I like making apps (Surprise!)
+### I am a 3rd year computer science student @Royal Holloway, University of London 👨‍🎓
+### I aspire to work within the software engineering industry 💻
+### I like making apps (Surprise!)
 
 
 ### ⚡ Currently working on
