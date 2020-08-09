@@ -1,21 +1,23 @@
 ## Hi, I'm Michal and this is my GitHub page!
 
-### I am a 3rd year computer science student @Royal Holloway, University of London 👨‍🎓
+### I am a 3rd year computer science student @Royal Holloway, University of London 🎓
+### I like making apps (Surprise!) 🎉
 ### I aspire to work within the software engineering industry 💻
-### I like making apps (Surprise!)
 
 
-### ⚡ Currently working on
+
+## ⚡ Currently working on
 -Making my first android app
 -Learning more about Web Development (specifically about JavaScript)
 
-<br />
-
-### ⭐ Favourite Languages and Tools
+## ⭐ Favourite Languages and Tools
 -Android Studio
--Java [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">]
--HTML5 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/HTML5/HTML5.png">]
--CSS [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
--SQL [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
+-Java
+-HTML5
+-CSS
+-SQL 
 
-### Connect with me
+## Connect with me
+[<img align="left" alt="| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/codeSTACKr
